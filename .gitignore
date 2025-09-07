@@ -1,0 +1,8 @@
+.minecraft/*
+!.minecraft/config/*
+!.minecraft/mods/*
+!.minecraft/coremods/*
+!.minecraft/options.txt
+
+
+*
